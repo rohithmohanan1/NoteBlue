@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "NoteBlue",
+    "slug": "note-blue",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.svg",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "backgroundColor": "#121212"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#121212"
+      }
+    },
+    "web": {
+      "favicon": "./assets/icon.svg"
+    }
+  }
+}
